@@ -1,4 +1,4 @@
 #!/bin/bash
-  2 docker build --no-cache \
-  3     --file Dockerfile \
-  4     --tag ngnono/pm2plus:latest .
+docker build --no-cache \
+             --file Dockerfile \
+             --tag ngnono/pm2plus:latest .
