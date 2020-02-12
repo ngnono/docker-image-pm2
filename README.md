@@ -9,6 +9,6 @@ sudo sh ./docker-make.sh
 ```
 
 # Dockerfile
-FROM ngnono/pm2plus:latest
+FROM ngnono/pm2plus:latest-alpine
 
 ```
